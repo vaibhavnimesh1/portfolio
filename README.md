@@ -1,6 +1,4 @@
-# HTML and CSS Project
 
-This repository contains an HTML and CSS project that you can view locally on your computer.
 
 ## Instructions
 
