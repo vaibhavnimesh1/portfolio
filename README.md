@@ -5,7 +5,7 @@ This repository contains an HTML and CSS project that you can view locally on yo
 ## Instructions
 
 1. **Download and Extract:**
-   - Download the zip file from the repository.
+   - Download the zip file .
    - Extract the contents of the zip file to a folder of your choice.
 
 2. **Open HTML File:**
@@ -25,6 +25,3 @@ This repository contains an HTML and CSS project that you can view locally on yo
 6. **Local Server (Optional):**
    - For complex projects, set up a local server using tools like Node.js or Python for additional functionalities.
 
-Feel free to explore and modify the code as needed. If you encounter any issues, refer to the troubleshooting section in the documentation.
-
-Happy coding!
